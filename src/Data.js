@@ -112,7 +112,7 @@ export const behanceItem = [
         feUser: 'Reshoka'
     }, {
         fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ba77449319465.58b0f87e734bf.jpg',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/15b0fc157771815.Y3JvcCwxMTQzLDg5NCwxMjcsMjU.png',
         featureTxt: 'Freeze-dried Cat Treats—Wanpy',
         feLike: '51',
         felikeIcons: <AiFillLike />,

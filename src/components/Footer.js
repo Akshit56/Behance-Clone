@@ -5,14 +5,21 @@ const Footer = () => {
         <section className='px-4 py-3 fixed w-full bottom-0 bg-white'>
             <div className="container-fluid ">
                 {/* left side */}
-                <div className="grid lg:grid-cols-2 gap-3 items-center ">
+                <div className="grid lg:grid-cols-2 gap-5 items-center ">
                 <div className="left-foot">
                     <ul className='flex items-center'>
-                        <li className='mx-3 font-medium text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Link one</a></li>
-                        <li className='mx-3 font-medium text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Link one</a></li>
-                        <li className='mx-3 font-medium text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Link one</a></li>
-                        <li className='mx-3 font-medium text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Link one</a></li>
-                        <li className='mx-3 font-medium text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Link one</a></li>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">More Behance</a></li>
+                        <span className='text-gray-300'>|</span>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">English</a></li>
+                        <span className='text-gray-300'>|</span>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Try Behance Pro</a></li>
+                        <span className='text-gray-300'>|</span>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">TOU</a></li>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Privacy</a></li>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Community</a></li>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Help</a></li>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Cookie Preferences</a></li>
+                        <li className='mx-3 font-small text-sm'><a href="http://" target="_blank" rel="noopener noreferrer">Help</a></li>
                     </ul>
                 </div>
 
