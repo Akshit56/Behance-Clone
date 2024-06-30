@@ -89,11 +89,12 @@ const Header = () => {
                                     <img src={behance_logo} alt={behance_logo} className="w-auto h-4" />
                                     <div className="page-links  lg:ml-8 hidden lg:block">
                                         <ul className='flex items-center'>
-                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Fou you</a></li>
-                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Discover</a></li>
-                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Livestreams</a></li>
-                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Hire</a></li>
+                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Explore</a></li>
+                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Assets</a></li>
                                             <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Jobs</a></li>
+                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Behance</a></li>
+                                            <span className='text-gray-300'>|</span>
+                                            <li className='mx-3 font-medium text-md active'><a href="http://" target="_blank" rel="noopener noreferrer">Hire Freelancers</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -105,13 +106,13 @@ const Header = () => {
                                         <div className="login-btn mx-4 rounded-full border px-4 py-1 border-[#dee8ff] bg-[#0057ff]">
                                             <a href="" className='text-white font-medium text-md'>Sign Up</a>
                                         </div>
-                                        <span className='text-gray-300'>|</span>
-                                        <div className="free-btn mx-4 flex items-center border rounded-full px-4 py-1">
-                                            <div className="cloud-icon pr-2">
-                                                <img src={adobe_cloude} alt={adobe_cloude} className="w-5 h-5" />
-                                            </div>
-                                            <a href="">Free Trial</a>
-                                        </div>
+                                        
+                                          {/* <div className="free-btn mx-4 flex items-center border rounded-full px-4 py-1">
+                                              <div className="cloud-icon pr-2">
+                                                  <img src={adobe_cloude} alt={adobe_cloude} className="w-5 h-5" />
+                                              </div>
+                                              <a href="">Free Trial</a>
+                                          </div> */}
                                         <div className="adobe-btn mx-4 flex items-center hover:opacity-70">
 
                                             <img src={adobeLogo} alt={adobeLogo} className="w-5 h-5" />

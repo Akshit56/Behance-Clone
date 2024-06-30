@@ -112,7 +112,7 @@ export const behanceItem = [
         feUser: 'Reshoka'
     }, {
         fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/518b00155999413.Y3JvcCw0OTAyLDM4MzQsMTI2MSw1NTg.jpg',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ba77449319465.58b0f87e734bf.jpg',
         featureTxt: 'Freeze-dried Cat Treats—Wanpy',
         feLike: '51',
         felikeIcons: <AiFillLike />,
@@ -131,7 +131,7 @@ export const behanceItem = [
         feUser: 'Reshoka'
     }, {
         fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/d34449157547869.Y3JvcCwxOTE3LDE1MDAsNDIsMA.jpg',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/24806c126581961.Y3JvcCwxMzgwLDEwODAsMjU2LDA.jpg',
         featureTxt: 'Freeze-dried Cat Treats—Wanpy',
         feLike: '51',
         felikeIcons: <AiFillLike />,
@@ -141,17 +141,7 @@ export const behanceItem = [
     },
     {
         fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/518b00155999413.Y3JvcCw0OTAyLDM4MzQsMTI2MSw1NTg.jpg',
-        featureTxt: 'Freeze-dried Cat Treats—Wanpy',
-        feLike: '51',
-        felikeIcons: <AiFillLike />,
-        feWatch: '580',
-        fewatchIcon: <AiTwotoneEye />,
-        feUser: 'Reshoka'
-    },
-    {
-        fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/aadca8140674779.Y3JvcCwxMzgwLDEwODAsMjQyLDA.jpg',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/2ba77449319465.58b0f87e734bf.jpg',
         featureTxt: 'Freeze-dried Cat Treats—Wanpy',
         feLike: '51',
         felikeIcons: <AiFillLike />,
@@ -171,7 +161,17 @@ export const behanceItem = [
     },
     {
         fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/ec3ed7156127337.Y3JvcCwxMjAwLDkzOCwwLDA.jpg',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/aadca8140674779.Y3JvcCwxMzgwLDEwODAsMjQyLDA.jpg',
+        featureTxt: 'Freeze-dried Cat Treats—Wanpy',
+        feLike: '51',
+        felikeIcons: <AiFillLike />,
+        feWatch: '580',
+        fewatchIcon: <AiTwotoneEye />,
+        feUser: 'Reshoka'
+    },
+    {
+        fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/project_modules/fs/cf57c949319465.58b0f87e74d9f.jpg',
         featureTxt: 'Freeze-dried Cat Treats—Wanpy',
         feLike: '51',
         felikeIcons: <AiFillLike />,
@@ -191,7 +191,7 @@ export const behanceItem = [
     },
     {
         fePatch: 'https://a5.behance.net/eb6198339b5bd9210ee85c5041d2da69b52ae5a5/img/galleries/icons/ribbons/1x/graphic-design.png?cb=264615658',
-        featureImg: '    https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/4a6005132419475.Y3JvcCw4MDgsNjMyLDAsMA.jpg',
+        featureImg: 'https://mir-s3-cdn-cf.behance.net/projects/max_808_webp/aadca8140674779.Y3JvcCwxMzgwLDEwODAsMjQyLDA.jpg',
         featureTxt: 'Freeze-dried Cat Treats—Wanpy',
         feLike: '51',
         felikeIcons: <AiFillLike />,
